@@ -9,6 +9,7 @@ This repository contains Jupyter Notebooks for the basics of Machine Learning. E
 5. K-Nearest Neighbors
 6. Support Vector Machines
 7. K-Means Clustering
+8. Singular Value Decmposition
 
 ## Requirements
 The notebooks are written in Python and make use of the following libraries:
